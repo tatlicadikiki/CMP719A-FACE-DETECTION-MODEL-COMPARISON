@@ -1,5 +1,5 @@
 # CMP719A-FACE-DETECTION-MODEL-COMPARISON
-CMP719A Project: Comparing Haar, YOLOv8-Face, and SCRFD. 
+CMP719A Project: Comparing Haar Cascades, YOLOv8n-Face, and SCRFD. Datasets : FDDB, WIDER FACE, CELEBA
 
 Face detection remains a core component of numerous real-world applications, including surveil-
 lance systems, user authentication, photo tagging, and human-computer interaction. The primary
