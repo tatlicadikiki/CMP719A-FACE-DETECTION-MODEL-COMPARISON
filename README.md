@@ -11,8 +11,10 @@ This report aims to perform a structured comparison of three different paradigms
 
 • The Viola-Jones framework with Haar Cascades: a classical yet historically significant and
 computationally efficient method.
+
 • YOLOv8n-Face: a modern, anchor-free real-time face detector based on a lightweight
 YOLOv8 architecture.
+
 • SCRFD: abbreviation of ”Sample and Computation Redistribution for Face Detection” a
 fast and compact deep learning model optimized for mobile deployment and small face
 detection.
